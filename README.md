@@ -9,3 +9,5 @@ Analyze the local network to search for devices with open and remotely accessibl
 * Recognize TCP service names.
 
 Very fast scanning thanks to multi-threading, able to scan 2,549,745 ports divided among 255 IPs in less than 30 seconds. All within a single Python script or Windows executable file.
+
+![alt text](https://raw.githubusercontent.com/theking0/LocalScan/main/IMG.JPG)
